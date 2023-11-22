@@ -3860,7 +3860,7 @@ GameObject:
   - component: {fileID: 626490210}
   - component: {fileID: 626490209}
   m_Layer: 5
-  m_Name: Tutorial (1)
+  m_Name: Webview
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3939,7 +3939,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: https://doc-hosting.flycricket.io/goal-master-penalty-privacy-policy/9d26beaa-1461-484a-abd1-71f9b8d3f1e9/privacy
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &626490210
